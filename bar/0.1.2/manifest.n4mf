@@ -1,7 +1,7 @@
 ProjectId: bar
 ProjectType: library
-ProjectVersion: 0.0.1-SNAPSHOT
-VendorId: eu.numberfour
+ProjectVersion: 0.1.2
+VendorId: npm
 Output: "."
 MainModule: "bar"
 ModuleLoader: commonjs
