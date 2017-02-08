@@ -10,3 +10,6 @@ Sources {
         "src"
     }
 }
+RequiredRuntimeLibraries {
+    runtime.nodejs
+}
